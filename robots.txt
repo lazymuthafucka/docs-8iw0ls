@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-guy26a.rtb-system.online/sitemap.xml
